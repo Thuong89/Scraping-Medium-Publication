@@ -1,5 +1,5 @@
 # Scraping-Medium-Publication
-<mark>Scraping model for Medium Publication, applied to Towards Data Science site (all articles in Dec 2020)</mark>
+<mark>This is my project: Scraping model for Medium Publication, applied to Towards Data Science site (all articles in Dec 2020)</mark>
 
 # Tasks:
 - Build Web Scraping model applied to Publication Medium to automatically take the latest data or customized time as wished.
